@@ -6,5 +6,6 @@ Calculator with basic mathematical functionalities using CSS, HTML and JavaScrip
 
 The calculator has a display screen to display the user's input and give the result. And it looks like:
 
-![Screenshot (28)](https://github.com/Mohammad-Amir-tech/OIBSIP/assets/143278584/005c2157-e5ad-4806-93c8-5b0820fa81c8)
+![Screenshot (29)](https://github.com/Mohammad-Amir-tech/OIBSIP/assets/143278584/7b324e3d-a410-4875-b6d1-f4e056eaadc0)
+
 
