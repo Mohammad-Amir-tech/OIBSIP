@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+  line-height: 1.6;
+}
+
+header.hero {
+  background-color: #2c3e50;
+  /* Dark blue-gray */
+  color: #ecf0f1;
+  /* Light gray */
+  text-align: center;
+  padding: 20px;
+}
+
+header.hero h1 {
+  font-size: 2.5rem;
+}
+
+header.hero p.tagline {
+  font-style: italic;
+  margin-top: 10px;
+}
+
+section.intro {
+  text-align: center;
+  padding: 20px;
+}
+
+section.intro p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+section.intro figure.profile {
+  margin-top: 20px;
+}
+
+section.intro figure.profile img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+section.intro figure.profile figcaption {
+  margin-top: 10px;
+  font-style: italic;
+  text-align: center;
+}
+
+
+section.achievements,
+section.timeline,
+section.future-plans,
+section.references {
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+  font-size: 2rem;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+section ul {
+  list-style-type: none;
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+section ul li strong {
+  font-weight: bold;
+}
+
+section.future-plans img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+section.references p {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #555;
+}
+
+a {
+  color: #3498db;
+  /* Blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.future-plans {
+  text-align: center;
+  font-size: large;
+  color: rgb(24, 10, 88);
+}
