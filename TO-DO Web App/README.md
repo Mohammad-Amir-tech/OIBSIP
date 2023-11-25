@@ -14,10 +14,10 @@ Change to-dos status
 ![Screenshot (31)](https://github.com/Mohammad-Amir-tech/OIBSIP/assets/143278584/22df301d-9035-4164-8af4-97aac02feee1)
 
 ## Technologies Used
-HTML5: The structure of the web app.
+**HTML**: The structure of the web app.
 
-CSS3 with Tailwind CSS: For styling the app beautifully. 
+**CSS**: For styling the app beautifully. 
 
-JavaScript: To handle the interactive functionality of the app.
+**JavaScript**: To handle the interactive functionality of the app.
 
 Local Storage: To save todos for persistent data across browser sessions.
