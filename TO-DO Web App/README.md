@@ -11,7 +11,7 @@ Delete completed todos or those no longer needed.
 Change to-dos status
 
 ## Screenshots
-
+![Screenshot (31)](https://github.com/Mohammad-Amir-tech/OIBSIP/assets/143278584/22df301d-9035-4164-8af4-97aac02feee1)
 
 ## Technologies Used
 HTML5: The structure of the web app.
