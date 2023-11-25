@@ -20,4 +20,3 @@ Change to-dos status
 
 **JavaScript**: To handle the interactive functionality of the app.
 
-Local Storage: To save todos for persistent data across browser sessions.
