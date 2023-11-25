@@ -1,4 +1,4 @@
-#OASIS INFOBYTE Web Development Internship Tasks
+# OASIS INFOBYTE Web Development Internship Tasks
 
 Welcome to my repository showcasing the web development tasks completed during my internship at OASIS INFOBYTE. Explore a collection of projects demonstrating my skills in front-end and back-end development.
 
