@@ -59,3 +59,5 @@ This project is a simple login authentication system implemented using HTML, CSS
 
 
 ### Screenshot
+
+![Screenshot (32)](https://github.com/Mohammad-Amir-tech/OIBSIP/assets/143278584/4037588f-e07e-46e6-8f31-c50784082733)
